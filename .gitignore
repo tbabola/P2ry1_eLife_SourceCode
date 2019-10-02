@@ -1,0 +1,8 @@
+*.tif
+*.czi
+NotUsed/
+OldVersions/
+figure_specs.txt
+*SCactivity.mat
+*.abf
+*.lsm

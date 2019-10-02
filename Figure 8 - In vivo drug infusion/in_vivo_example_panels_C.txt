@@ -1,0 +1,10 @@
+PCA_344.tif
+-20 to 150 pixel values, blue fire green
+
+frame 183
+frame 1277
+
+Wildtype
+342_PCA
+-20 to 150 pixel values, blue fire green
+frame 398

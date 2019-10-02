@@ -1,0 +1,6 @@
+for (i = 0; i < 10; i++){
+start = 1540+ (i)*10;
+end = start + 200;
+selectWindow("Result of Experiment-403_Snap25GC6s_Catheter_sham-1.czi");
+run("Temporal-Color Code", "lut=Spectrum start="+start+" end="+end + " create");
+}
